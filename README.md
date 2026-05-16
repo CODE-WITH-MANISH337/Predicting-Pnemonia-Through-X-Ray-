@@ -2,7 +2,8 @@
 
 An end-to-end deep learning pipeline designed to analyze chest X-ray images and provide instant, accurate predictive insights for pneumonia classification. Built with a focus on model optimization and lightweight cloud deployment.
 
-🚀 **Live Web Application:** [Launch Streamlit App]([https://streamlit.app](https://wydr7msozxs3nhgy6fcv2g.streamlit.app/))
+🚀 **Live Web Application:** [Launch Streamlit App](https://wydr7msozxs3nhgy6fcv2g.streamlit.app/)
+
 
 ---
 
